@@ -1,0 +1,7 @@
+
+@mixin config ($justify, $color) {
+    align-items: center;
+    display:grid;
+    justify-content: $justify;
+    color: $color;
+}

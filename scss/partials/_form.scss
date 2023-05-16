@@ -1,0 +1,20 @@
+.formulario {
+    @include config (center, green);
+    margin-bottom: 3px;
+
+    .correo-electronico {
+        margin-bottom: 3px;
+    }
+
+    .contraseña {
+        margin-bottom: 3px;
+    }
+
+    .btn {
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+}
+.titulo-form {
+    @include config (center, black);
+}

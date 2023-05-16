@@ -1,0 +1,27 @@
+.secciones {
+    font-size: 21px;
+} 
+.Titulo1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    background-color: #E5E5E5;
+    color: #083D77;
+}
+.cuerpo {
+    background-color: #E5E5E5;
+}
+.header_logo{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.notificacion {
+    height: 40px;
+    padding: 4px;
+    
+}
+.carrusel {
+    border-style: none;
+    background-color: #ffffff;
+}
