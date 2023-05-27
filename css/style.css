@@ -1,4 +1,8 @@
 @charset "UTF-8";
+.cuerpo {
+  background-color: #E5E5E5;
+}
+
 .Titulo1, .Titulo-locales, .Titulo-destacadas {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   font-style: italic;
@@ -12,7 +16,7 @@
 }
 
 .secciones-navbar {
-  font-size: 21px;
+  font-size: 30px;
 }
 .secciones-navbar .secciones {
   margin: auto;
@@ -48,10 +52,6 @@
   display: grid;
   justify-content: center;
   color: black;
-}
-
-.cuerpo {
-  background-color: #E5E5E5;
 }
 
 .header_logo {
