@@ -60,6 +60,10 @@
 }
 
 .notificacion {
+  height: fit-content;
+}
+
+.notificacion {
   height: 40px;
   padding: 4px;
 }
